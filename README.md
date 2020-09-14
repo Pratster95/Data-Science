@@ -1,3 +1,2 @@
 # Data-Science
-Here are some of the assignments that I worked on in my Data Science Class.
-Change the branches for all the files.
+Analysed the salaries for various Police officers from Open Baltimore Dataset and drew some interesting insights from them.
