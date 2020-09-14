@@ -1,2 +1,2 @@
 # Data-Science
-Here are some of the assignments that I worked on in my Data Science Class.
+Breast Cancer Prediction using Logistic Regression Model, Support Vector Machine for RBF and Linear Kernel.
